@@ -1,0 +1,9 @@
+F:\Multy\bin\Debug\Multy.exe
+F:\Multy\bin\Debug\Multy.pdb
+F:\Multy\obj\x86\Debug\Multy.Form1.resources
+F:\Multy\obj\x86\Debug\Multy.Properties.Resources.resources
+F:\Multy\obj\x86\Debug\Multy.csproj.GenerateResource.Cache
+F:\Multy\obj\x86\Debug\Multy.exe
+F:\Multy\obj\x86\Debug\Multy.pdb
+F:\Multy\obj\x86\Debug\Multy.csprojResolveAssemblyReference.cache
+F:\Multy\bin\Debug\Multy.exe.config
